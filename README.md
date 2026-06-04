@@ -1,4 +1,4 @@
-DVD Screensaver (Ashley ECS Edition)
+*DVD Screensaver (Ashley ECS Edition)*
 A learning project built with LibGDX to practice the Entity Component System (ECS) architecture utilizing the Ashley framework.
 
 The project simulates the classic bouncing DVD logo screen, incorporating a "health" system that penalizes the logo when it impacts screen boundaries, and dynamically updates a UI health bar.
