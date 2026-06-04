@@ -44,10 +44,14 @@ This project uses Gradle to manage dependencies. The Gradle wrapper is included,
 * **Run the Desktop Application:**
 ```bash
   ./gradlew lwjgl3:run
+```
 * **Build an Executable JAR:**
  (Outputs to lwjgl3/build/libs)
 ```bash
   ./gradlew lwjgl3:jar
+```
+
 * **Clean Build Directories:**
 ```bash
   ./gradlew clean
+```
